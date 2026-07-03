@@ -5787,8 +5787,8 @@
     "date": "2026-06-20",
     "time": "",
     "category": "综艺",
-    "name-zh": "佛山录制",
-    "name-tw": "佛山錄製",
+    "name-zh": "佛山录制・乐行时分听歌会",
+    "name-tw": "佛山錄製・樂行時分聽歌會",
     "name-en": "Program Recording in Foshan",
     "desc-zh": "",
     "desc-tw": "",
@@ -5820,6 +5820,66 @@
     "link": "https://weibo.com/7799246681/5306500918805344"
   },
   {
+    "date": "2026-07-05",
+    "time": "",
+    "category": "其他",
+    "name-zh": "杂志拍摄",
+    "name-tw": "雜誌拍攝",
+    "name-en": "Magazine photoshoot",
+    "desc-zh": "",
+    "desc-tw": "",
+    "desc-en": "",
+    "link": ""
+  },
+  {
+    "date": "2026-07-06",
+    "time": "",
+    "category": "其他",
+    "name-zh": "音乐剧定妆照",
+    "name-tw": "音樂劇定妝照",
+    "name-en": "Musical Character photoshoot",
+    "desc-zh": "",
+    "desc-tw": "",
+    "desc-en": "",
+    "link": ""
+  },
+  {
+    "date": "2026-07-07",
+    "time": "",
+    "category": "其他",
+    "name-zh": "录音",
+    "name-tw": "錄音",
+    "name-en": "Recording",
+    "desc-zh": "",
+    "desc-tw": "",
+    "desc-en": "",
+    "link": ""
+  },
+  {
+    "date": "2026-07-08",
+    "time": "",
+    "category": "其他",
+    "name-zh": "物料拍摄",
+    "name-tw": "物料拍攝",
+    "name-en": "Promotional Content Shoot",
+    "desc-zh": "",
+    "desc-tw": "",
+    "desc-en": "",
+    "link": ""
+  },
+  {
+    "date": "2026-07-12",
+    "time": "",
+    "category": "其他",
+    "name-zh": "物料拍摄",
+    "name-tw": "物料拍攝",
+    "name-en": "Promotional Content Shoot",
+    "desc-zh": "",
+    "desc-tw": "",
+    "desc-en": "",
+    "link": ""
+  },
+  {
     "date": "2026-06-28",
     "time": "",
     "category": "见面会",
@@ -5829,6 +5889,18 @@
     "desc-zh": "场地：上海国华广场",
     "desc-tw": "場地：上海國華廣場",
     "desc-en": "Venue: GuoHua Plaza",
+    "link": ""
+  },
+  {
+    "date": "2026-07-11",
+    "time": "",
+    "category": "综艺",
+    "name-zh": "开放营业中Live演唱暨录制",
+    "name-tw": "開放營業中Live演唱暨錄製",
+    "name-en": "Variety Show Recording and Live performance",
+    "desc-zh": "",
+    "desc-tw": "",
+    "desc-en": "",
     "link": ""
   }
 ]
