@@ -5878,5 +5878,65 @@
     "desc-tw": "場地：上海國華廣場",
     "desc-en": "Venue: GuoHua Plaza",
     "link": ""
+  },
+  {
+    "date": "2026-07-22",
+    "time": "13:14",
+    "category": "杂志",
+    "name-zh": "Funny杂志公告7月大片讯息",
+    "name-tw": "Funny雜誌公告7月大片訊息",
+    "name-en": "Announces July Editorial Collaboration",
+    "desc-zh": "",
+    "desc-tw": "",
+    "desc-en": "",
+    "link": "https://weibo.com/7565478211/5323468562235720"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "",
+    "category": "杂志",
+    "name-zh": "时尚北京杂志七月份内页访谈",
+    "name-tw": "時尚北京雜誌七月份內頁訪談",
+    "name-en": "July Feature Interview for Fashion Beijing Magazine",
+    "desc-zh": "",
+    "desc-tw": "",
+    "desc-en": "",
+    "link": "https://weibo.com/1964024867/5322800541992100"
+  },
+  {
+    "date": "2026-08-14",
+    "time": "20:00",
+    "category": "Live",
+    "name-zh": "心想事宸音樂純享會",
+    "name-tw": "心想事宸音樂純享會",
+    "name-en": "Dreams Come Chen Static Concert",
+    "desc-zh": "场地：音乐唐人馆",
+    "desc-tw": "場地：音樂唐人館",
+    "desc-en": "Venue: Music Tang Hall",
+    "link": ""
+  },
+  {
+    "date": "2026-08-15",
+    "time": "20:00",
+    "category": "Live",
+    "name-zh": "崖・Live",
+    "name-tw": "崖・Live",
+    "name-en": "Cliff・Live",
+    "desc-zh": "场地：音乐唐人馆",
+    "desc-tw": "場地：音樂唐人館",
+    "desc-en": "Venue: Music Tang Hall",
+    "link": ""
+  },
+  {
+    "date": "2026-08-16",
+    "time": "",
+    "category": "见面会",
+    "name-zh": "广州见面会",
+    "name-tw": "廣州見面會",
+    "name-en": "GuangZhou Fans Meeting",
+    "desc-zh": "",
+    "desc-tw": "",
+    "desc-en": "",
+    "link": ""
   }
 ]
