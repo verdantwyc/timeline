@@ -6013,11 +6013,23 @@
   },
   {
     "date": "2026-08-30",
-    "time": "",
+    "time": "14:30",
     "category": "其他演出",
-    "name-zh": "北京助演",
-    "name-tw": "北京助演",
-    "name-en": "Guest appearance in Beijing",
+    "name-zh": "助演张语格\"12:30\"Live",
+    "name-tw": "助演張語格\"12:30\"Live",
+    "name-en": "Guest appearance on Tako Zhang's Live Performance",
+    "desc-zh": "",
+    "desc-tw": "",
+    "desc-en": "",
+    "link": ""
+  },
+  {
+    "date": "2026-09-19",
+    "time": "",
+    "category": "商务",
+    "name-zh": "一日店长",
+    "name-tw": "一日店長",
+    "name-en": "one-day store manager",
     "desc-zh": "",
     "desc-tw": "",
     "desc-en": "",
@@ -6034,6 +6046,18 @@
     "desc-tw": "角色：西施｜場地：上海黃浦劇場・中劇場",
     "desc-en": "Role: Xi Shi | Venue: Shanghai Huangpu Theater - Studio Theater",
     "link": ""
+  },
+  {
+    "date": "2026-09-27",
+    "time": "",
+    "category": "商演",
+    "name-zh": "流行金曲排行榜",
+    "name-tw": "流行金曲排行榜",
+    "name-en": "9th Pop Songs Chart",
+    "desc-zh": "",
+    "desc-tw": "",
+    "desc-en": "",
+    "link": "https://weibo.com/5490234918/5337945411944836"
   },
   {
     "date": "2026-10-04",
