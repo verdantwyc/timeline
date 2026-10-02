@@ -6027,13 +6027,13 @@
     "date": "2026-09-19",
     "time": "",
     "category": "商务",
-    "name-zh": "一日店长",
-    "name-tw": "一日店長",
-    "name-en": "one-day store manager",
+    "name-zh": "AFIONA 一日店长",
+    "name-tw": "AFIONA一日店長",
+    "name-en": "AFIONA one-day store manager",
     "desc-zh": "",
     "desc-tw": "",
     "desc-en": "",
-    "link": ""
+    "link": "https://weibo.com/7799246681/5344979270764820"
   },
   {
     "date": "2026-09-26",
@@ -6054,10 +6054,10 @@
     "name-zh": "流行金曲排行榜",
     "name-tw": "流行金曲排行榜",
     "name-en": "9th Pop Songs Chart",
-    "desc-zh": "",
-    "desc-tw": "",
-    "desc-en": "",
-    "link": "https://weibo.com/5490234918/5337945411944836"
+    "desc-zh": "年度舞台表现力女歌手",
+    "desc-tw": "年度舞台表現力女歌手",
+    "desc-en": "Female Stage Performer of the Year",
+    "link": "https://weibo.com/3158731005/5347789328614604"
   },
   {
     "date": "2026-10-03",
@@ -6081,6 +6081,78 @@
     "desc-zh": "角色：西施｜场地：上海黄浦剧场・中剧场",
     "desc-tw": "角色：西施｜場地：上海黃浦劇場・中劇場",
     "desc-en": "Role: Xi Shi | Venue: Shanghai Huangpu Theater - Studio Theater",
+    "link": ""
+  },
+  {
+    "date": "2026-10-05",
+    "time": "14:00",
+    "category": "见面会",
+    "name-zh": "Let's Go国庆见面会",
+    "name-tw": "Let's Go國慶見面會",
+    "name-en": "Fan Meeting \"Let's Go\"",
+    "desc-zh": "美兰西湖蜂巢艺术中心",
+    "desc-tw": "美蘭西湖蜂巢藝術中心",
+    "desc-en": "Hive Center for Contemporary Art",
+    "link": "https://weibo.com/7799246681/RjBQkBWwF"
+  },
+  {
+    "date": "2026-10-07",
+    "time": "11:00",
+    "category": "其他",
+    "name-zh": "逛展・寻Me艺术展",
+    "name-tw": "逛展・尋Me藝術展",
+    "name-en": "Visit \"Searching for ME\" Art Exhibition",
+    "desc-zh": "太古里SPECTRUM堂砾",
+    "desc-tw": "太古里SPECTRUM堂礫",
+    "desc-en": "Taikoo Li - SPECTRUM",
+    "link": ""
+  },
+  {
+    "date": "2026-10-31",
+    "time": "",
+    "category": "LIVE",
+    "name-zh": "镜像双魂万圣夜Live",
+    "name-tw": "鏡像雙魂萬聖夜Live",
+    "name-en": "\"Mirror Twin Flames\" Halloween Night Live",
+    "desc-zh": "上海瓦肆ear",
+    "desc-tw": "上海瓦肆ear",
+    "desc-en": "VAS ear",
+    "link": ""
+  },
+  {
+    "date": "2026-10-10",
+    "time": "16:30",
+    "category": "时尚",
+    "name-zh": "上海时装周・Lacerta",
+    "name-tw": "上海時裝週・Lacerta",
+    "name-en": "Shanghai Fashion Week・Lacerta",
+    "desc-zh": "新天地太平湖公园",
+    "desc-tw": "新天地太平湖公園",
+    "desc-en": "Taiping Lake Park",
+    "link": ""
+  },
+  {
+    "date": "2026-10-14",
+    "time": "20:00",
+    "category": "时尚",
+    "name-zh": "上海时装周・LetoiiAtelier",
+    "name-tw": "上海時裝週・LetoiiAtelier",
+    "name-en": "Shanghai Fashion Week・LetoiiAtelier",
+    "desc-zh": "前滩31",
+    "desc-tw": "前灘31",
+    "desc-en": "New Bund 31",
+    "link": ""
+  },
+  {
+    "date": "2026-11-01",
+    "time": "",
+    "category": "见面会",
+    "name-zh": "镜像双魂万圣见面会",
+    "name-tw": "鏡像雙魂萬聖見面會",
+    "name-en": "\"Mirror Twin Flames\" Halloween Fan Meeting",
+    "desc-zh": "",
+    "desc-tw": "",
+    "desc-en": "",
     "link": ""
   }
 ]
