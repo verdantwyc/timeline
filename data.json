@@ -6109,7 +6109,7 @@
   },
   {
     "date": "2026-10-31",
-    "time": "",
+    "time": "20:00",
     "category": "LIVE",
     "name-zh": "镜像双魂万圣夜Live",
     "name-tw": "鏡像雙魂萬聖夜Live",
@@ -6117,6 +6117,18 @@
     "desc-zh": "上海瓦肆ear",
     "desc-tw": "上海瓦肆ear",
     "desc-en": "VAS ear",
+    "link": ""
+  },
+  {
+    "date": "2026-10-09",
+    "time": "15:00",
+    "category": "时尚",
+    "name-zh": "上海时装周・HACCHIC COUTURE",
+    "name-tw": "上海時裝週・HACCHIC COUTURE",
+    "name-en": "Shanghai Fashion Week・HACCHIC COUTURE",
+    "desc-zh": "前滩31",
+    "desc-tw": "前灘31",
+    "desc-en": "New Bund 31",
     "link": ""
   },
   {
@@ -6144,15 +6156,87 @@
     "link": ""
   },
   {
+    "date": "2026-10-30",
+    "time": "15:00",
+    "category": "时尚",
+    "name-zh": "上海宠物时装周・Petstar",
+    "name-tw": "上海寵物時裝週・Petstar",
+    "name-en": "Shanghai Pet Fashion Week・Petstar",
+    "desc-zh": "上海国际时尚中心",
+    "desc-tw": "上海國際時尚中心",
+    "desc-en": "Shanghai Fashion Center",
+    "link": ""
+  },
+  {
+    "date": "2026-10-31",
+    "time": "10:30",
+    "category": "时尚",
+    "name-zh": "上海宠物时装周・Ruffwear",
+    "name-tw": "上海寵物時裝週・Ruffwear",
+    "name-en": "Shanghai Pet Fashion Week・Ruffwear",
+    "desc-zh": "上海国际时尚中心",
+    "desc-tw": "上海國際時尚中心",
+    "desc-en": "Shanghai Fashion Center",
+    "link": ""
+  },
+  {
     "date": "2026-11-01",
     "time": "",
     "category": "见面会",
     "name-zh": "镜像双魂万圣见面会",
     "name-tw": "鏡像雙魂萬聖見面會",
     "name-en": "\"Mirror Twin Flames\" Halloween Fan Meeting",
+    "desc-zh": "美兰西湖蜂巢艺术中心",
+    "desc-tw": "美蘭西湖蜂巢藝術中心",
+    "desc-en": "Hive Center for Contemporary Art",
+    "link": ""
+  },
+  {
+    "date": "2026-11-28",
+    "time": "",
+    "category": "商演",
+    "name-zh": "關注流舞蹈盛典",
+    "name-tw": "關注流舞蹈盛典",
+    "name-en": "2026 Focus Stream Dance Gala",
     "desc-zh": "",
     "desc-tw": "",
     "desc-en": "",
+    "link": "https://weibo.com/5490234918/5366306167852144"
+  },
+  {
+    "date": "2026-12-05",
+    "time": "19:30",
+    "category": "音乐剧",
+    "name-zh": "音乐剧四大美女南京場",
+    "name-tw": "音樂劇四大美女南京場",
+    "name-en": "Musical \"The Four Beauties\" Nanjing",
+    "desc-zh": "角色：西施｜场地：江苏大剧院・戏剧厅",
+    "desc-tw": "角色：西施｜場地：江蘇大劇院・戲劇廳",
+    "desc-en": "Role: Xi Shi | Venue: Jiangsu Centre for the Performing Arts - Drama Hall",
+    "link": ""
+  },
+  {
+    "date": "2026-12-06",
+    "time": "",
+    "category": "见面会",
+    "name-zh": "南京場见面会",
+    "name-tw": "南京場見面會",
+    "name-en": "Fanmeeting Nanjing",
+    "desc-zh": "",
+    "desc-tw": "",
+    "desc-en": "",
+    "link": ""
+  },
+  {
+    "date": "2026-12-26",
+    "time": "19:30",
+    "category": "音乐剧",
+    "name-zh": "音乐剧四大美女蘇州場",
+    "name-tw": "音樂劇四大美女蘇州場",
+    "name-en": "Musical \"The Four Beauties\" Suzhou",
+    "desc-zh": "角色：西施｜场地：苏州湾大剧院・歌剧厅",
+    "desc-tw": "角色：西施｜場地：蘇州灣大劇院・歌劇廳",
+    "desc-en": "Role: Xi Shi | Venue: Suzhou Bay Grand Theatre - Opera Hall",
     "link": ""
   }
 ]
